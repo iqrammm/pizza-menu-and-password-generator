@@ -1,0 +1,20 @@
+{
+    "name": "iqram/billplz",
+    "description": "Cli Tools",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Iqram\\Billplz\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amirul",
+            "email": "amirul@shipx.cc"
+        }
+    ],
+    "require": {
+        "php-school/cli-menu": "^4.3"
+    }
+}
